@@ -1,0 +1,17 @@
+.main-content {
+  max-width: 640px;
+  
+  .image-search-input {
+    margin: 10px auto;
+  }
+  
+  cdk-virtual-scroll-viewport {
+    height: 82vh;
+  }
+  
+  hr {
+    margin: 0 0 8px;
+  }
+}
+
+  
